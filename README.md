@@ -2,10 +2,10 @@
 <h3 align="center">A passionate full-stack developer based in Vancouver, B.C.</h3>
 
 - 🌱 I’m currently learning **React Native, Typescript and Tailwind**
+- I am always looking to collaborate on some cool projects or learn something new. 
+- 📫 Feel free to reach me **severny.island@gmail.com**
 
-- 📫 How to reach me **severny.island@gmail.com**
 
-- ⚡ Fun fact **Daniel Radcliffe once told me he likes my glasses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
