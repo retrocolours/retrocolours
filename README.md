@@ -3,7 +3,7 @@
 <h4>I am currently based in Vancouver, B.C. but during my travels I spent time living in England, France and Russia, wandering around the busy streets of London and empty liminal spaces of Siberia, trying to find out what "eternity" means. I am passionate about clean, minimalistic design and avant-garde ideas. I thrive as a generalist, able to quickly adapt and scale my work across a variety of mediums, infrastructures and tech stacks. I care a lot about mental health and art, I enjoy good stories, and I’m usually traveling in my free time.</h4>
 
 - Currently I am mostly concentrating my efforts on building an exciting portfolio to showcase my existing projects, 
-- as well as learning **React Native** to adapt my web-based mental health app Clarity into a mobile app.
+- as well as learning **GreenSock** (because I am interested in animation!) and **React Native** to adapt my web-based mental health app Clarity into a mobile app.
 - I am always looking to collaborate on some cool projects or have a conversation about the meaning of life, so please feel free to reach me **severny.island@gmail.com**
 
 
