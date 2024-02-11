@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tatiana</h1>
-<h3 align="center">A full-stack developer with a passion for design and aesthetic solutions.</h3>
+<h3 align="center">A front-end developer with a passion for design and aesthetic solutions.</h3>
 <h4>I am currently based in Vancouver, B.C. but during my travels I spent time living in England, France and Russia, wandering around the busy streets of London and empty liminal spaces of Siberia, trying to find out what "eternity" means. I am passionate about clean, minimalistic design and avant-garde ideas. I thrive as a generalist, able to quickly adapt and scale my work across a variety of mediums, infrastructures and tech stacks. I care a lot about mental health and art, I enjoy good stories, and I’m usually traveling in my free time.</h4>
 
 - Currently I am mostly concentrating my efforts on building an exciting portfolio to showcase my existing projects, 
