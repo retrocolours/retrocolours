@@ -4,7 +4,7 @@
 
 - Currently I am mostly concentrating my efforts on building an exciting portfolio to showcase my existing projects, 
 - as well as learning **GreenSock** (because I am interested in animation!:)) and **React Native** to adapt my web-based mental health app Clarity into a mobile app.
-- I am always looking to collaborate on some cool projects or have a conversation about the meaning of life, so please feel free to reach me **severny.island@gmail.com**
+- I am always excited to collaborate on some cool projects or have a conversation about the meaning of life, so please feel free to reach me **severny.island@gmail.com**
 
 P.S. My profile picture is done by one of my favourite artists Seth Fitts. I highly recommend checking out his works:)
 
