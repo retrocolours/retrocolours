@@ -6,7 +6,7 @@
 - as well as learning **GreenSock** (because I am interested in animation!:)) and **React Native** to adapt my web-based mental health app Clarity into a mobile app.
 - I am always looking to collaborate on some cool projects or have a conversation about the meaning of life, so please feel free to reach me **severny.island@gmail.com**
 
-
+:)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
