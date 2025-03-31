@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tatiana</h1>
-<h3 align="center">A front-end developer with a passion for design and aesthetic solutions.</h3>
+<h3 align="center">A full-stack software developer with a passion for design and aesthetic solutions.</h3>
 <h4>I am currently based in Vancouver, B.C. but during my travels I spent time living in England, France and Russia, wandering around the busy streets of London and empty liminal spaces of Siberia, absorbing the world around me and drawing inspiration from it. I am passionate about clean, minimalistic design and avant-garde ideas. I thrive as a generalist, able to quickly adapt and scale my work across a variety of mediums, infrastructures and tech stacks. My current favorite technologies include React.js, Angular, and Node.js, with growing expertise in TypeScript, React Native, and cloud solutions like AWS.</h4>
 
 P.S. My profile picture is done by one of my favourite artists Seth Fitts. I highly recommend checking out his works:)
